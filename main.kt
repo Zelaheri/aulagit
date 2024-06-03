@@ -3,7 +3,7 @@
 //listOf -> criação de uma lista somente leitura
 //MutableListOf -> criação de uma lista mutável
 
-val readName = listOf("Davi", "João", "André")
+val readNames = listOf("Davi", "João", "André")
 
 fun main() {
     println("Hello, $readNames!")
